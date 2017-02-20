@@ -229,7 +229,7 @@ int main() {
 				   "  > Type \"exit\" For Exiting \n"
 				   "  > Type \"drpn\" for disabling and \"erpn\" for enabling Reverse Polish Notation\n";
 	cout<<"\n\t ===========================================\n";
-    cout<<  "\t ----- CALCULATOR ( By Code Tackler )  -----\n";
+    cout<<  "\t ----- CALCULATOR ( By Shantanu Verma )    -----\n";
 	cout<<  "\t ===========================================\n";
 	cout<<"\n\t         Type \"help\" for Help               ";
 
